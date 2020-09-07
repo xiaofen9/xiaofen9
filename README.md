@@ -6,15 +6,18 @@
 - Program Analysis
 - Virtualization
 
+### 📫 How to reach me
+
+- [Email](feng@gatech.edu)
+- [Personal homepage](https://fxiao.me)
+- [Linkedin](https://www.linkedin.com/in/f-xiao)
+
+
 ### ⚡ Fun fact
 
 ![LFeng's github stats](https://github-readme-stats.vercel.app/api?username=xiaofen9&show_icons=true&theme=radical&count_private=true)
 
 
-### 📫 How to reach me
-
-- [Personal Website](https://fxiao.me)
-- [Linkedin](https://www.linkedin.com/in/f-xiao)
 
 
 <!--
