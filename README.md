@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me
 
-- [Email](feng@gatech.edu)
+- [Email](mailto:feng@gatech.edu)
 - [Personal homepage](https://fxiao.me)
 - [Linkedin](https://www.linkedin.com/in/f-xiao)
 
