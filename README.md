@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on
 
-- Web security
+- Software security
 - Program Analysis
 - Virtualization
 
