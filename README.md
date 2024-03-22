@@ -1,14 +1,12 @@
 <h1 align="center">Hello 👋, I'm Feng Xiao</h1>
 
 ### 🔭 I’m currently working on
-
-- Software security
-- Program Analysis
-- Virtualization
+- Deep Learning
+- Threat Detection
 
 ### 📫 How to reach me
 
-- [Email](mailto:feng@gatech.edu)
+- [Email](mailto:f3i@gmail.com)
 - [Personal homepage](https://fxiao.me)
 - [Linkedin](https://www.linkedin.com/in/f-xiao)
 
