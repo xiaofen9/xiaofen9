@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Feng Xiao</h1>
 
 ### 🔭 I’m currently working on
-- Deep Learning
-- Threat Detection
+- Post-training
+- Model Alignment
 
 ### 📫 How to reach me
 
