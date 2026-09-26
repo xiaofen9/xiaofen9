@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me
 
-- [Email](mailto:f3i@gmail.com)
+- [Email](mailto:f3ixiao@gmail.com)
 - [Personal homepage](https://fxiao.me)
 - [Linkedin](https://www.linkedin.com/in/f-xiao)
 
